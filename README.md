@@ -1,10 +1,6 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
 
-<div class="header"><h1>ADENIRAN YUSUF</h1><h2>ASSIGNMENT 3</h2></h2><p>Web Developer Student Records</p></div>
+<div class="header"><h1>ADENIRAN YUSUF</h1><h2>ASSIGNMENT 3</h2></h2></div>
 <!-- content section-->
 <div> 
     <h2>Student Table</h2>
