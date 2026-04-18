@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>3MTT SOFTWARE DEVELOPER</title>
+
     <!-- head section -->
 <div class="header"><h1>ADENIRAN YUSUF</h1><h2>ASSIGNMENT 3</h2></h2><p>Web Developer Student Records</p></div>
 <!-- content section-->
